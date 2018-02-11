@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.javi_h.encrypter.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/bEncrypt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/encrypt_file"
+            android:textSize="24dp"
+            android:padding="20dp"
+            android:backgroundTint="@android:color/holo_red_light"
+            android:drawableLeft="@drawable/ic_lock_outline_white_24dp"
+            android:drawablePadding="10dp"
+            android:textColor="@android:color/white"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="70dp"/>
+
+        <Button
+            android:id="@+id/bDecrypt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/decrypt_file"
+            android:textSize="24dp"
+            android:padding="20dp"
+            android:backgroundTint="@android:color/holo_green_light"
+            android:drawableLeft="@drawable/ic_lock_open_white_24dp"
+            android:drawablePadding="10dp"
+            android:textColor="@android:color/white"
+            android:layout_below="@id/bEncrypt"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:id="@+id/txtInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/bDecrypt"
+            android:layout_marginTop="20dp"
+            android:padding="20dp"
+            android:layout_centerHorizontal="true"
+            android:text="@string/info_main_screen"
+            android:textSize="17dp"/>
+    </RelativeLayout>
+</ScrollView>

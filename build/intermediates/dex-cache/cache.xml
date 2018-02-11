@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c12db3830a0dc4fba228b6f072c0db63\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5ff11e6eb98bba64d5290bbed392a8df\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\c7c38add9e05eaa66d6b0a5f29144db6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\2ce78956e11199926fab78ca3ee5bd54\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\bcedc517838952e5f4a0774c2f218e48\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\43e36d727c68db68c37b0282ccc87484\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\filechooser-1.1.5.aar\3633f214cadf6407e4f69f594db4b8a3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d92780fd2dc31419480b9c478f7c7bb5599f4ada">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\2e8bb9772fde35a9a98986f5b5d318b0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5878a3dff6cab7aa414686db99de4995\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\782c7489965d35c87fa25ed5753f8e0c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6aa478e29729339842d5b4d80459e6cd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\b8223961e087764033969f589aa42c48\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\filechooser-1.1.5.aar\828faca42783968f6a32ff6e4231c81b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d92780fd2dc31419480b9c478f7c7bb5599f4ada">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f36df4d0a0349b5ec48111a9ff44606d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\043e0f96f27951cb7bcc3de3520c0df2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7b1392bc52baa32441cfd3ae0f44b2f8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\46dad276509b2fc774383a9edd70a6aa\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\6290eed45f7e0746a328878d7c2e828c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e58bdbc5e73148bda4d81032c1672b92\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9839a4f2ede7d354afec82e27f1a501b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\4ae202c2e8cc845b722fdc4cef358091\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ja237\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fd74d7f26f9930c7f2ab916203cdd58a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="X:\Encrypter\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.javi_h.encrypter.EncryptActivity">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textAlignment="center"
+        android:text="@string/choose_pass_title"
+        android:textSize="20dp"/>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/pass_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_marginTop="25dp"
+        android:layout_below="@id/textView"
+        app:passwordToggleEnabled="true">
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/txtPass"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="@string/password"
+            android:inputType="textPassword"
+            android:maxLength="25"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:id="@+id/bEncrypt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pass_layout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:text="@string/encrypt_file" />
+
+    <TextView
+        android:id="@+id/tArch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="15dp"
+        android:layout_below="@+id/bEncrypt"
+        android:textSize="18dp"
+        android:layout_marginTop="30dp"
+        android:text="@string/selected_file"/>
+
+    <TextView
+        android:id="@+id/tInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/tArch"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:layout_marginTop="30dp"
+        android:text="Info"
+        android:drawablePadding="10dp"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/bShare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/tInfo"
+        android:layout_marginTop="20dp"
+        android:visibility="gone"
+        android:text="@string/share"
+        android:drawableLeft="@android:drawable/ic_menu_share"
+        android:drawablePadding="10dp"/>
+</RelativeLayout>

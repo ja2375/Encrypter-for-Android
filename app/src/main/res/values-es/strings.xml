@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="encrypt_file">Cifrar archivo</string>
+    <string name="decrypt_file">Descifrar archivo</string>
+    <string name="info_main_screen">Cifra un archivo con una clave que sólo tú (y la(s) persona(s) que vayan a recibirlo) sepáis para evitar que sea robado o visto por gente que no debe en internet.</string>
+    <string name="perm_requires">Permiso requerido</string>
+    <string name="perm_required_text">Para poder funcionar, se necesita permiso para acceder a tus archivos.</string>
+    <string name="give_perm">Dar permiso</string>
+    <string name="exit_app">Salir</string>
+    <string name="password">Contraseña</string>
+    <string name="choose_pass_title">Elige una contraseña para cifrar el archivo</string>
+    <string name="perform_encrypt">Cifrando...</string>
+    <string name="success_encrypt_msg">¡Archivo cifrado con éxito!</string>
+    <string name="error_encrypt_msg">Ha ocurrido un error.</string>
+    <string name="selected_file">Archivo seleccionado</string>
+    <string name="saved_to">Guardado en</string>
+    <string name="share">Compartir con otras apps</string>
+    <string name="pass_requirement">Por seguridad, se requiere que la contraseña tenga al menos 6 caracteres.</string>
+    <string name="open_with_app">Abrir con</string>
+    <string name="share_using">Compartir archivo mediante</string>
+    <string name="pass_for_decryption">Contraseña para descifrar el archivo</string>
+    <string name="open_with">Abrir con otra app</string>
+    <string name="enter_pass">Se necesita una contraseña para descifrar el archivo.</string>
+    <string name="error_decrypt_msg">Ha ocurrido un error. Es posible que la contraseña que has introducido sea incorrecta.</string>
+    <string name="perform_decrypt">Descifrando...</string>
+    <string name="success_decrypt_msg">¡Archivo descifrado con éxito!</string>
+    <string name="delete_temp_setting">Eliminar archivos temporales</string>
+    <string name="delete_temp_setting_title">Eliminar los archivos temporales que se puedan generar al (des)cifrar un archivo.</string>
+    <string name="settings">Ajustes</string>
+</resources>

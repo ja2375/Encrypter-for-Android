@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">Encrypter</string>
+    <string name="encrypt_file">Encrypt file</string>
+    <string name="decrypt_file">Decrypt file</string>
+    <string name="info_main_screen">Encrypt a file with a password that only you (and the person/people who receive the file) know and protect it from being stolen on the fly!</string>
+    <string name="perm_requires">Permission required</string>
+    <string name="perm_required_text">In order to work, this app requires permission to access your files.</string>
+    <string name="give_perm">Give permission</string>
+    <string name="exit_app">Quit</string>
+    <string name="password">Password</string>
+    <string name="choose_pass_title">Choose a password to encrypt the file</string>
+    <string name="perform_encrypt">Encrypting...</string>
+    <string name="success_encrypt_msg">File encrypted successfully!</string>
+    <string name="error_encrypt_msg">An error has ocurred.</string>
+    <string name="selected_file">Selected file</string>
+    <string name="saved_to">Saved to</string>
+    <string name="share">Share with other apps</string>
+    <string name="share_using">Share encrypted file using</string>
+    <string name="pass_requirement">For security reasons, we require a password of at least 6 characters.</string>
+    <string name="pass_for_decryption">Password to decrypt the file</string>
+    <string name="open_with">Open with another app</string>
+    <string name="enter_pass">A password is needed in order to decrypt the file.</string>
+    <string name="open_with_app">Open with</string>
+    <string name="error_decrypt_msg">An error has ocurred. It\'s possible that the password you entered is incorrect.</string>
+    <string name="perform_decrypt">Decrypting...</string>
+    <string name="success_decrypt_msg">File successfully decrypted!</string>
+    <string name="delete_temp_setting">Delete temp files</string>
+    <string name="delete_temp_setting_title">Delete temp files that can get generated automatically on encryption/decryption.</string>
+    <string name="settings">Settings</string>
+</resources>
