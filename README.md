@@ -2,7 +2,7 @@
 
 Source code of the official Encrypter app for Android.
 
-You can download the release version of the app on the [Google Play Store](https://play.google.com/store/apps/details?id=com.javi_h.encrypter) or build it yourself by cloning this repo and opening the project with Android Studio.
+You can download the release version of the app on the [Google Play Store](https://play.google.com/store/apps/details?id=com.javi_h.encrypter) or build it yourself by cloning this repo and opening the project in Android Studio.
 
 ## Description
 
